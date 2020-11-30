@@ -1,0 +1,40 @@
+
+body{
+    margin: 20px 20px 20px 500px;
+    padding: 0;
+}
+
+
+.rectangle{
+    
+    background-color: green;
+    width: 500px;
+    height: 300px;
+   
+    position: relative;
+   
+    
+    
+   
+}
+
+
+.circle{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+   
+}
+.hr{
+    width: 10px;
+    height: 500px;
+    background:black;
+    margin: left;
+}
